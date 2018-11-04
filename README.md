@@ -1,3 +1,3 @@
 # OODP
 
-We were made to this. Don't ask.
+We were made to do this. Don't ask.
