@@ -1,3 +1,3 @@
 # OODP
 
-We were made to do this. Don't ask.
+Project that was created for Object oriented programming module in NTU
